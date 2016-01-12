@@ -43,6 +43,7 @@ public class MainActivity extends Activity {
         public void run() {
             // this text added in master
             bringApplicationToFront();
+            // this text added in test branch
         }
     }
 
