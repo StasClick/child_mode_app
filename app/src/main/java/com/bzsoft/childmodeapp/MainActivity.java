@@ -44,6 +44,7 @@ public class MainActivity extends Activity {
             // this text added in test branch 2
             // this text added in master
             bringApplicationToFront();
+            // this text added in test branch
         }
     }
 
