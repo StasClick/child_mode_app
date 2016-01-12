@@ -41,6 +41,7 @@ public class MainActivity extends Activity {
     class MyTimerTask extends TimerTask {
         @Override
         public void run() {
+            
             bringApplicationToFront();
             
         }
