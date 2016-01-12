@@ -41,10 +41,8 @@ public class MainActivity extends Activity {
     class MyTimerTask extends TimerTask {
         @Override
         public void run() {
-            // this text added in test branch 2
-            // this text added in master
+            // empty
             bringApplicationToFront();
-            // this text added in test branch
         }
     }
 
