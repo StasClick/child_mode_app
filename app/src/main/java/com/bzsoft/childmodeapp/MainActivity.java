@@ -43,6 +43,7 @@ public class MainActivity extends Activity {
         public void run() {
             // empty
             bringApplicationToFront();
+            // new changes in TB3
         }
     }
 
