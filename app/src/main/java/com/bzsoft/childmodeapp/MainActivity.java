@@ -44,6 +44,7 @@ public class MainActivity extends Activity {
             // empty
             bringApplicationToFront();
             // new changes in master
+            // new changes in TB3
         }
     }
 
