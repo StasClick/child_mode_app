@@ -47,6 +47,7 @@ public class MainActivity extends Activity {
             // new changes in TB3
             // new changes 2 in TB3
             // new feature added
+            // release changes
         }
     }
 
